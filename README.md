@@ -22,3 +22,12 @@ This project utilizes natural language processing techniques to analyze the plot
 
    ```shell
    git clone https://github.com/your-username/movie-recommendation.git
+
+2. Install the required dependencies:
+    pip install -r requirements.txt
+## Usage 
+
+1. Run the script
+   python movie_recommendation.py
+2. Enter the name of a movie when prompted.
+3. View the list of top related movies based on the input movie.
