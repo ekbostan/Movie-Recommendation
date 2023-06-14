@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="netflix_icon.png" alt="Netflix Icon">
+   ![image](https://github.com/ekbostan/Movie-Recommendation/assets/114015851/9ca06e37-eac8-446e-b0c2-d2e12895e852)
 </p>
 
 # Movie Recommendation System
